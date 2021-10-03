@@ -1,0 +1,13 @@
+package com.example.murtiple;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MurtipleThreadDemoApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
